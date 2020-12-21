@@ -8360,7 +8360,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: .5;
-    background: #21243d;
+    /* background: #105447; */
     height: 850px; }
   .hero-wrap.hero-wrap-2 {
     height: 500px !important;
@@ -8437,7 +8437,7 @@ h1, h2, h3, h4, h5,
 
 .search-wrap-1 {
   position: relative;
-  background: #21243d;
+  background: #105447;
   -webkit-box-shadow: 0px 75px 94px -66px rgba(0, 0, 0, 0.66);
   -moz-box-shadow: 0px 75px 94px -66px rgba(0, 0, 0, 0.66);
   box-shadow: 0px 75px 94px -66px rgba(0, 0, 0, 0.66);
